@@ -4,6 +4,7 @@ In this code-along, we will go through the steps required to create a web page w
 Specifically, we will walk through the following steps:
 
 -Create a web page to act as the user interface (UI).
+
 -Display a list of contacts as a table in the web page.
 -Use the web page to add a new contact to the list of contacts.
 -Use the web page to update an existing contact in the list.
